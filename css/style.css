@@ -1,0 +1,85 @@
+/* remember that style sheets cascade, so whatever is on the bottom will override whats on top. Don't have multiple statements for the same element. Organization and hierarchy are key, start with larger elements and work your way down.
+
+Do they best you can with this, talk with each other and help each other. Most colors and fonts are provided for you. Use adobe color to find the other colors from the sample image.*/
+
+/*pls help me im so confused */
+/*pls help me im so confused */
+/*pls help me im so confused */
+/*pls help me im so confused */
+/*pls help me im so confused */
+h1 {
+
+  color: #3a400c;
+  font-size: 37px;
+}
+
+a {
+  text-decoration: none;
+  color: #047f8c;
+  font-size: 16px;
+
+}
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: #f2994d;
+
+}
+
+h3 {
+  color: #047f8c;
+  font-size: 18px;
+
+
+}
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  font-size: 22.5px;
+  font-weight: 700;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+
+ul {
+  color: #3a400c !important;
+  font-size: 16px; 
+}
+
+footer {
+  color: #3a400c;
+  font-size: 16px;
+}
+
+#one {
+  font-size: 15px;
+}
+
+.wrap {
+  position: relative;
+  background-color: #cde3f1;
+
+  width: 1000px;
+  margin: 0 auto;
+
+  justify-content: center;
+  align-items: center;
+  
+  padding: 30px;
+}
+
+.wrapper {
+  color: #3a400c !important;
+  position: relative;
+  background-color: #00acc0;
+  
+  width: 1000px;
+  margin: 0 auto;
+
+  padding: 30px;
+
+}
+
